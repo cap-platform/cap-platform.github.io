@@ -17,7 +17,7 @@ We think there might be a way to compe up with an approach that:
 - is distributed;
 - provides only answers to relevant questions with regard to the context of the question;
 - does not leave data behind.
-- 
+
 During 2016, we will research this, set up meetings of minds to deepen our knowledge and attempt to write a comprehensive Whitepaper on this subject.
 
 Watch this area to stay updated.
